@@ -59,8 +59,13 @@ border: 0;
     justify-content: space-between;
     width: 50%;
     margin-left: 450px;
+    
    
 
+}
+.flex > div{
+    margin-right: 200px;
+    margin-left: 100px;
 }
 .my{
 
